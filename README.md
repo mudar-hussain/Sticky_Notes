@@ -1,3 +1,25 @@
+<div align="center">
+<h1> Sticky Notes </h1>
+</div>
+
+## Sticky Notes is an _Open Source Website_ built using React.js.
+
+When we make notes on paper to remember something, we all run into the problem of getting them lost or misplaced. Finding a _specific note_ among all the notes is the most challenging thing.
+
+The digital version of notebooks, **Sticky Notes** website offer more benefits than paper ever could. Your notes are always accessible on your device at any time.
+
+In this website you can **_easily_** create note by adding some text. The note you create will be saved until you decide to delete it. Your notes will still be saved if you close the tab or the browser because I used **localStorage** in this website. You can also change the theme of the website using **toggle button**. Additionally, there is a search option that allows you to find notes by simply typing any word that appears in the note. 
+
+Click here to see website: [Sticky Notes](https://react-sticky-notes-app.netlify.app/)
+
+# Preview
+## Light Mode
+![image](https://github.com/mudar-hussain/Sticky_Notes/blob/baddcb45a67d47b1a69aa325bea74ca2cd970338/snaps/Light%20Mode.PNG)
+
+## Dark Mode
+![image](https://github.com/mudar-hussain/Sticky_Notes/blob/baddcb45a67d47b1a69aa325bea74ca2cd970338/snaps/Dark%20Mode.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
