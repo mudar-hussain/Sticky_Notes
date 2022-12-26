@@ -12,7 +12,7 @@ function Note({ note, handleDeleteNote }) {
         <small>{note.date}</small>
         <MdDeleteForever
           className="delete-icon"
-          onMouseOver={({ target }) => (target.style.color = "red", target.style.size="2em")}
+          onMouseOver={({ target }) => (target.style.color = "red")}
           onMouseOut={({ target }) => (target.style.color = "black")}
           size="1.3em"
           
